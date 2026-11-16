@@ -1,5 +1,5 @@
 
-<!-- GitHub Profile | Rafael Dias -->
+<!-- GitHub Profile README | @i4mdiaz -->
 
 <div align="center">
 
@@ -7,16 +7,16 @@
 
 ### Desenvolvedor Back-end | Infraestrutura de Sistemas
 
-**Back-end · Cloud · APIs · Automações · Inteligência Artificial**
+`Back-end` · `Cloud` · `APIs` · `Automações` · `Inteligência Artificial`
 
 <br>
 
 <a href="https://www.linkedin.com/in/rafaeldiasribeiro/">
-  <img src="https://img.shields.io/badge/LinkedIn-20252B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-20252B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/i4mdiaz/">
-  <img src="https://img.shields.io/badge/Instagram-20252B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-20252B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 </div>
@@ -87,6 +87,8 @@ Integração de serviços de IA em sistemas, incluindo modelos de linguagem, pro
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-20252B?style=flat-square&logo=whatsapp&logoColor=25D366)
 ![Meta](https://img.shields.io/badge/Meta_Graph_API-20252B?style=flat-square&logo=meta&logoColor=0081FB)
 
+`Google APIs` · `Asaas` · `Resend`
+
 ### Inteligência Artificial
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-20252B?style=flat-square&logo=openai&logoColor=white)
@@ -99,11 +101,13 @@ Integração de serviços de IA em sistemas, incluindo modelos de linguagem, pro
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-20252B?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-20252B?style=flat-square&logo=anthropic&logoColor=D97757)
 
+`Claude Code`
 
 ### Testes & Ferramentas de Desenvolvimento
 
-![VS Code](https://img.shields.io/badge/VS_Code-20252B?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/VS_Code-20252B?style=flat-square&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-20252B?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Vitest](https://img.shields.io/badge/Vitest-20252B?style=flat-square&logo=vitest&logoColor=6E9F18)
 ![pnpm](https://img.shields.io/badge/pnpm-20252B?style=flat-square&logo=pnpm&logoColor=F69220)
 
+`pgTAP`
