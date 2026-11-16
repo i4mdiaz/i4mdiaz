@@ -7,22 +7,33 @@
 
 ### Desenvolvedor Back-end | Infraestrutura de Sistemas
 
-`Backend` • `Cloud` • `Automações` • `IA`
+`Back-end` • `Cloud` • `APIs` • `Automações` • `IA`
 
 <br>
 
 <a href="https://www.linkedin.com/in/rafaeldiasribeiro/">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://www.instagram.com/i4mdiaz/">
-  <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 💫 Sobre mim
+
+Sou **Rafael Dias**, desenvolvedor Back-end com atuação em infraestrutura de sistemas, serviços em nuvem e integrações.
+
+Trabalho principalmente com **Supabase, PostgreSQL e Cloudflare**, desenvolvendo e mantendo serviços, APIs e soluções serverless.
+
+Também tenho experiência com **automações no n8n** e integração de serviços de inteligência artificial. No desenvolvimento, utilizo **OpenAI Codex e Claude** como ferramentas de apoio à programação.
+
+---
+
+## 💻 Tecnologias & Ferramentas
 
 ### 🗄️ Banco de Dados
 
@@ -51,7 +62,7 @@
 <kbd>Cloudflare R2</kbd>
 <kbd>Workers AI</kbd>
 
-### 🔐 Autenticação
+### 🔐 Autenticação & Segurança
 
 ![Clerk](https://img.shields.io/badge/Clerk-161B22?style=for-the-badge&logo=clerk&logoColor=6C47FF)
 
@@ -80,7 +91,7 @@
 <kbd>Embeddings</kbd>
 <kbd>Text-to-Speech</kbd>
 
-### 🤖 Desenvolvimento com IA
+### 🤖 Desenvolvimento Assistido por IA
 
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-161B22?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=anthropic&logoColor=D97757)
@@ -95,8 +106,24 @@
 
 ---
 
+## 🚀 Especialidades
+
+**⚙️ Back-end & Infraestrutura**
+
+Desenvolvimento e manutenção de serviços, bancos de dados, autenticação e infraestrutura serverless.
+
+**🔄 Integrações & Automações**
+
+Integrações com APIs de terceiros e desenvolvimento de fluxos automatizados utilizando n8n.
+
+**🧠 Inteligência Artificial**
+
+Integração de modelos de IA, serviços em tempo real, embeddings e tecnologias de voz.
+
+---
+
 <div align="center">
 
-<sub>Backend • Infrastructure • Cloud • Automation • AI</sub>
+<sub>Back-end • Infraestrutura • Cloud • Automações • IA</sub>
 
 </div>
