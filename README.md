@@ -87,8 +87,6 @@ Integração de serviços de IA em sistemas, incluindo modelos de linguagem, pro
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-20252B?style=flat-square&logo=whatsapp&logoColor=25D366)
 ![Meta](https://img.shields.io/badge/Meta_Graph_API-20252B?style=flat-square&logo=meta&logoColor=0081FB)
 
-`Google APIs` · `Asaas` · `Resend`
-
 ### Inteligência Artificial
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-20252B?style=flat-square&logo=openai&logoColor=white)
@@ -101,7 +99,6 @@ Integração de serviços de IA em sistemas, incluindo modelos de linguagem, pro
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-20252B?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-20252B?style=flat-square&logo=anthropic&logoColor=D97757)
 
-`Claude Code`
 
 ### Testes & Ferramentas de Desenvolvimento
 
@@ -110,4 +107,3 @@ Integração de serviços de IA em sistemas, incluindo modelos de linguagem, pro
 ![Vitest](https://img.shields.io/badge/Vitest-20252B?style=flat-square&logo=vitest&logoColor=6E9F18)
 ![pnpm](https://img.shields.io/badge/pnpm-20252B?style=flat-square&logo=pnpm&logoColor=F69220)
 
-`pgTAP`
