@@ -1,156 +1,59 @@
 
-<!-- Perfil GitHub | github.com/i4mdiaz -->
+<!-- README | github.com/i4mdiaz -->
 
 <div align="center">
 
-# Rafael Dias
+<h1>Rafael Dias</h1>
 
-### Desenvolvedor Back-end | Infraestrutura de Sistemas
+<p><strong>DESENVOLVEDOR BACK-END · INFRAESTRUTURA DE SISTEMAS</strong></p>
 
-Back-end · Cloud · APIs · Automações · Inteligência Artificial
+<p><sub>Cloud · APIs · Automações · Inteligência Artificial</sub></p>
 
 <br>
 
-[Instagram](https://www.instagram.com/i4mdiaz/) •
-[LinkedIn](https://www.linkedin.com/in/rafaeldiasribeiro/) •
-[GitHub](https://github.com/i4mdiaz)
+<a href="https://www.linkedin.com/in/rafaeldiasribeiro/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.instagram.com/i4mdiaz/">Instagram</a>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+### 01 / Sobre
 
-Sou **Rafael Dias**, desenvolvedor Back-end com foco no desenvolvimento, manutenção e infraestrutura de sistemas.
+Atuo no desenvolvimento back-end e na infraestrutura de sistemas, trabalhando com bancos de dados, serviços serverless, computação de borda, autenticação e integrações com APIs.
 
-Minha atuação envolve bancos de dados, computação serverless, infraestrutura em nuvem, autenticação, integrações com APIs, automações e serviços de inteligência artificial.
+Também tenho experiência com automações no **n8n** e utilizo **OpenAI Codex** e **Claude** no desenvolvimento assistido por inteligência artificial.
 
-Tenho experiência com automações utilizando **n8n** e também utilizo ferramentas de desenvolvimento assistido por IA, como **OpenAI Codex** e **Claude**, no meu fluxo de trabalho com código.
+### 02 / Tecnologias
 
----
+| Área | Ferramentas e tecnologias |
+| :--- | :--- |
+| **Dados e segurança** | PostgreSQL 17, Supabase, Row Level Security, pgvector, pg_cron, Supabase Vault, Clerk, JWT |
+| **Back-end e tempo real** | TypeScript, Deno, Supabase Edge Functions, Supabase Realtime |
+| **Cloud e infraestrutura** | Cloudflare Workers, Cloudflare R2, Workers AI |
+| **APIs e integrações** | WhatsApp, Meta Graph API, Google APIs, Asaas, Stripe, Resend |
+| **Automações** | n8n |
+| **Inteligência artificial** | OpenAI API, OpenAI Realtime, embeddings, TTS, OpenRouter |
+| **Desenvolvimento com IA** | OpenAI Codex, Claude |
+| **Testes e deploy** | Vitest, pgTAP, Wrangler, pnpm |
 
-## 💻 Tecnologias e Ferramentas
+### 03 / Áreas de atuação
 
-### 🗄️ Bancos de Dados
+**Back-end e infraestrutura**
 
-<kbd>PostgreSQL 17</kbd>
-<kbd>Supabase</kbd>
-<kbd>Row Level Security</kbd>
-<kbd>pgvector</kbd>
-<kbd>pg_cron</kbd>
-<kbd>Supabase Vault</kbd>
+Desenvolvimento e manutenção de serviços, bancos de dados e infraestrutura de sistemas.
 
-### ⚙️ Back-end e Serverless
+**Integrações e automações**
 
-<kbd>TypeScript</kbd>
-<kbd>Deno</kbd>
-<kbd>Supabase Edge Functions</kbd>
-<kbd>Supabase Realtime</kbd>
+Conexão entre APIs e serviços, com automações de processos usando n8n.
 
-### ☁️ Cloud e Infraestrutura
+**IA aplicada a sistemas**
 
-<kbd>Cloudflare Workers</kbd>
-<kbd>Cloudflare R2</kbd>
-<kbd>Workers AI</kbd>
-
-### 🔐 Autenticação e Segurança
-
-<kbd>Clerk</kbd>
-<kbd>JWT</kbd>
-
-### 🔌 APIs e Integrações
-
-<kbd>WhatsApp</kbd>
-<kbd>Meta Graph API</kbd>
-<kbd>Google APIs</kbd>
-<kbd>Asaas</kbd>
-<kbd>Stripe</kbd>
-<kbd>Resend</kbd>
-
-### 🔄 Automações
-
-<kbd>n8n</kbd>
-
-### 🧠 Inteligência Artificial
-
-<kbd>OpenAI API</kbd>
-<kbd>OpenAI Realtime</kbd>
-<kbd>Embeddings</kbd>
-<kbd>Text-to-Speech</kbd>
-<kbd>OpenRouter</kbd>
-
-### 🤖 Desenvolvimento Assistido por IA
-
-<kbd>OpenAI Codex</kbd>
-<kbd>Claude</kbd>
-
-### 🧪 Testes e Deploy
-
-<kbd>Vitest</kbd>
-<kbd>pgTAP</kbd>
-<kbd>Wrangler</kbd>
-<kbd>pnpm</kbd>
-
----
-
-## 🚀 Áreas de Atuação
-
-**Desenvolvimento Back-end**
-
-Desenvolvimento e manutenção de aplicações e serviços no lado do servidor.
-
-**Infraestrutura de Sistemas**
-
-Gerenciamento e manutenção da infraestrutura que sustenta aplicações e serviços.
-
-**Bancos de Dados**
-
-Trabalho com PostgreSQL, Supabase e mecanismos de segurança e controle de acesso.
-
-**Serverless e Edge Computing**
-
-Desenvolvimento e execução de serviços utilizando Supabase Edge Functions e Cloudflare Workers.
-
-**APIs e Integrações**
-
-Integração com serviços de autenticação, pagamentos, comunicação e APIs de terceiros.
-
-**Automação de Processos**
-
-Desenvolvimento de automações e fluxos de trabalho utilizando n8n.
-
-**Inteligência Artificial**
-
-Integração de modelos de IA, serviços em tempo real, embeddings e tecnologias de processamento de voz.
-
----
-
-## 📊 Atividade no GitHub
-
-<div align="center">
-
-Acompanhe minhas atividades e contribuições no GitHub.
-
-**[Ver minhas atividades](https://github.com/i4mdiaz?tab=overview)**
-
-</div>
-
----
-
-## 🌐 Entre em Contato
-
-<div align="center">
-
-**[Instagram](https://www.instagram.com/i4mdiaz/)** &nbsp; • &nbsp;
-**[LinkedIn](https://www.linkedin.com/in/rafaeldiasribeiro/)** &nbsp; • &nbsp;
-**[GitHub](https://github.com/i4mdiaz)**
-
-</div>
+Integrações com modelos de IA, processamento de voz e serviços em tempo real.
 
 ---
 
 <div align="center">
-
-<sub>Desenvolvimento Back-end • Infraestrutura • Cloud • Automações • IA</sub>
-
+  <sub>Back-end · Infraestrutura · Automações · IA</sub>
 </div>
