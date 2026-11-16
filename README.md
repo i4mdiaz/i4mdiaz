@@ -1,41 +1,37 @@
 
-<!-- GitHub Profile | github.com/i4mdiaz -->
+<!-- Perfil GitHub | github.com/i4mdiaz -->
 
 <div align="center">
 
-  <img src="./assets/banner.png" alt="Rafael Dias — Backend Developer" width="100%" />
+# Rafael Dias
 
-  <br>
+### Desenvolvedor Back-end | Infraestrutura de Sistemas
 
-  # Rafael Dias
+Back-end · Cloud · APIs · Automações · Inteligência Artificial
 
-  **Backend Developer | Systems Infrastructure**
+<br>
 
-  Backend · Cloud · APIs · AI Integrations
-
-  <br>
-
-  [Instagram](https://www.instagram.com/i4mdiaz/) •
-  [LinkedIn](https://www.linkedin.com/in/rafaeldiasribeiro/) •
-  [GitHub](https://github.com/i4mdiaz)
+[Instagram](https://www.instagram.com/i4mdiaz/) •
+[LinkedIn](https://www.linkedin.com/in/rafaeldiasribeiro/) •
+[GitHub](https://github.com/i4mdiaz)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-I'm **Rafael Dias**, a Backend Developer focused on building and maintaining backend systems and the infrastructure behind them.
+Sou **Rafael Dias**, desenvolvedor Back-end com foco no desenvolvimento, manutenção e infraestrutura de sistemas.
 
-My work involves databases, serverless computing, cloud infrastructure, authentication, API integrations, and AI-powered services.
+Minha atuação envolve bancos de dados, computação serverless, infraestrutura em nuvem, autenticação, integrações com APIs, automações e serviços de inteligência artificial.
 
-I also use **AI-assisted development tools**, including OpenAI Codex and Claude, as part of my coding workflow.
+Tenho experiência com automações utilizando **n8n** e também utilizo ferramentas de desenvolvimento assistido por IA, como **OpenAI Codex** e **Claude**, no meu fluxo de trabalho com código.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tecnologias e Ferramentas
 
-### 🗄️ Databases
+### 🗄️ Bancos de Dados
 
 <kbd>PostgreSQL 17</kbd>
 <kbd>Supabase</kbd>
@@ -44,25 +40,25 @@ I also use **AI-assisted development tools**, including OpenAI Codex and Claude,
 <kbd>pg_cron</kbd>
 <kbd>Supabase Vault</kbd>
 
-### ⚙️ Backend & Serverless
+### ⚙️ Back-end e Serverless
 
 <kbd>TypeScript</kbd>
 <kbd>Deno</kbd>
 <kbd>Supabase Edge Functions</kbd>
 <kbd>Supabase Realtime</kbd>
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud e Infraestrutura
 
 <kbd>Cloudflare Workers</kbd>
 <kbd>Cloudflare R2</kbd>
 <kbd>Workers AI</kbd>
 
-### 🔐 Authentication
+### 🔐 Autenticação e Segurança
 
 <kbd>Clerk</kbd>
 <kbd>JWT</kbd>
 
-### 🔌 APIs & Integrations
+### 🔌 APIs e Integrações
 
 <kbd>WhatsApp</kbd>
 <kbd>Meta Graph API</kbd>
@@ -71,7 +67,11 @@ I also use **AI-assisted development tools**, including OpenAI Codex and Claude,
 <kbd>Stripe</kbd>
 <kbd>Resend</kbd>
 
-### 🧠 Artificial Intelligence
+### 🔄 Automações
+
+<kbd>n8n</kbd>
+
+### 🧠 Inteligência Artificial
 
 <kbd>OpenAI API</kbd>
 <kbd>OpenAI Realtime</kbd>
@@ -79,12 +79,12 @@ I also use **AI-assisted development tools**, including OpenAI Codex and Claude,
 <kbd>Text-to-Speech</kbd>
 <kbd>OpenRouter</kbd>
 
-### 🤖 AI-Assisted Development
+### 🤖 Desenvolvimento Assistido por IA
 
 <kbd>OpenAI Codex</kbd>
 <kbd>Claude</kbd>
 
-### 🧪 Testing & Deployment
+### 🧪 Testes e Deploy
 
 <kbd>Vitest</kbd>
 <kbd>pgTAP</kbd>
@@ -93,30 +93,51 @@ I also use **AI-assisted development tools**, including OpenAI Codex and Claude,
 
 ---
 
-## 🚀 What I Work With
+## 🚀 Áreas de Atuação
 
-- **Backend Development** — Server-side applications and services.
-- **Systems Infrastructure** — Infrastructure supporting backend systems.
-- **Databases** — PostgreSQL, Supabase, and database security.
-- **Serverless & Edge Computing** — Supabase Edge Functions and Cloudflare Workers.
-- **API Integrations** — Authentication, payment services, messaging, and third-party APIs.
-- **Artificial Intelligence** — AI APIs, real-time services, embeddings, and speech technologies.
+**Desenvolvimento Back-end**
+
+Desenvolvimento e manutenção de aplicações e serviços no lado do servidor.
+
+**Infraestrutura de Sistemas**
+
+Gerenciamento e manutenção da infraestrutura que sustenta aplicações e serviços.
+
+**Bancos de Dados**
+
+Trabalho com PostgreSQL, Supabase e mecanismos de segurança e controle de acesso.
+
+**Serverless e Edge Computing**
+
+Desenvolvimento e execução de serviços utilizando Supabase Edge Functions e Cloudflare Workers.
+
+**APIs e Integrações**
+
+Integração com serviços de autenticação, pagamentos, comunicação e APIs de terceiros.
+
+**Automação de Processos**
+
+Desenvolvimento de automações e fluxos de trabalho utilizando n8n.
+
+**Inteligência Artificial**
+
+Integração de modelos de IA, serviços em tempo real, embeddings e tecnologias de processamento de voz.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Atividade no GitHub
 
 <div align="center">
 
-Explore my activity and contributions on GitHub.
+Acompanhe minhas atividades e contribuições no GitHub.
 
-**[View My GitHub Profile](https://github.com/i4mdiaz?tab=overview)**
+**[Ver minhas atividades](https://github.com/i4mdiaz?tab=overview)**
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Entre em Contato
 
 <div align="center">
 
@@ -130,6 +151,6 @@ Explore my activity and contributions on GitHub.
 
 <div align="center">
 
-  <sub>Backend Development • Systems Infrastructure • Cloud • AI</sub>
+<sub>Desenvolvimento Back-end • Infraestrutura • Cloud • Automações • IA</sub>
 
 </div>
