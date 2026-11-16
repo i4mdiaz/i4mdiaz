@@ -1,129 +1,153 @@
 
-<!-- GitHub Profile | i4mdiaz -->
+<!-- README | github.com/i4mdiaz -->
 
-<div align="center">
+# Rafael Dias
 
-# 👨‍💻 Rafael Dias
+**Desenvolvedor Back-end | Infraestrutura de Sistemas**
 
-### Desenvolvedor Back-end | Infraestrutura de Sistemas
+Atuo no desenvolvimento back-end e na infraestrutura de sistemas, com foco em bancos de dados, computação serverless, serviços em nuvem, integrações com APIs e automações.
 
-`Back-end` • `Cloud` • `APIs` • `Automações` • `IA`
+Minha stack é baseada principalmente em **PostgreSQL, Supabase, TypeScript e Cloudflare**, combinando serviços de back-end, autenticação, armazenamento e recursos de inteligência artificial.
 
-<br>
+Também trabalho com **automações utilizando n8n** e integrações com modelos de IA. No desenvolvimento, utilizo **OpenAI Codex e Claude** como ferramentas de apoio à programação.
 
-<a href="https://www.linkedin.com/in/rafaeldiasribeiro/">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/i4mdiaz/">
-  <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/rafaeldiasribeiro/) · [Instagram](https://www.instagram.com/i4mdiaz/)
 
 ---
 
-## 💫 Sobre mim
+## O que faço
 
-Sou **Rafael Dias**, desenvolvedor Back-end com atuação em infraestrutura de sistemas, serviços em nuvem e integrações.
+### Desenvolvimento Back-end e Serverless
 
-Trabalho principalmente com **Supabase, PostgreSQL e Cloudflare**, desenvolvendo e mantendo serviços, APIs e soluções serverless.
+Atuação no desenvolvimento e manutenção de serviços back-end, utilizando tecnologias serverless e recursos de execução na borda.
 
-Também tenho experiência com **automações no n8n** e integração de serviços de inteligência artificial. No desenvolvimento, utilizo **OpenAI Codex e Claude** como ferramentas de apoio à programação.
+- Desenvolvimento back-end com **TypeScript e Deno**.
+- Utilização de **Supabase Edge Functions** para serviços serverless.
+- Trabalho com **Supabase Realtime** para funcionalidades em tempo real.
+- Integração entre serviços, bancos de dados e APIs externas.
+- Manutenção da infraestrutura responsável pelo funcionamento dos sistemas.
 
----
+### Bancos de Dados e Segurança
 
-## 💻 Tecnologias & Ferramentas
+Trabalho com PostgreSQL e o ecossistema Supabase, incluindo recursos de segurança, extensões e gerenciamento de dados.
 
-### 🗄️ Banco de Dados
+- **PostgreSQL 17:** banco de dados relacional.
+- **Supabase:** serviços de banco de dados e back-end.
+- **Row Level Security (RLS):** controle de acesso aos dados.
+- **pgvector:** suporte a operações com vetores e embeddings.
+- **pg_cron:** agendamento de tarefas no PostgreSQL.
+- **Supabase Vault:** gerenciamento de segredos.
+- **Clerk e JWT:** autenticação e gerenciamento de identidade.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+### Cloud e Infraestrutura
 
-<kbd>PostgreSQL 17</kbd>
-<kbd>Row Level Security</kbd>
-<kbd>pgvector</kbd>
-<kbd>pg_cron</kbd>
-<kbd>Supabase Vault</kbd>
+Experiência com tecnologias da Cloudflare e infraestrutura de sistemas, utilizando recursos de computação e armazenamento em nuvem.
 
-### ⚙️ Back-end & Serverless
+- **Cloudflare Workers:** execução de código na borda.
+- **Cloudflare R2:** armazenamento de objetos.
+- **Workers AI:** recursos de inteligência artificial no ecossistema Cloudflare.
+- **Supabase:** infraestrutura de dados e serviços de back-end.
+- **Wrangler:** desenvolvimento e gerenciamento de recursos Cloudflare.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Deno](https://img.shields.io/badge/Deno-161B22?style=for-the-badge&logo=deno&logoColor=white)
+### Integrações e APIs
 
-<kbd>Supabase Edge Functions</kbd>
-<kbd>Supabase Realtime</kbd>
+Atuação com integrações entre sistemas e serviços externos, incluindo plataformas de comunicação, pagamentos, autenticação e envio de mensagens.
 
-### ☁️ Cloud & Infraestrutura
+**Comunicação e plataformas**
+- WhatsApp
+- Meta Graph API
+- Google APIs
+- Resend
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+**Pagamentos**
+- Stripe
+- Asaas
 
-<kbd>Cloudflare Workers</kbd>
-<kbd>Cloudflare R2</kbd>
-<kbd>Workers AI</kbd>
+**Autenticação**
+- Clerk
+- JWT
 
-### 🔐 Autenticação & Segurança
+### Automações com n8n
 
-![Clerk](https://img.shields.io/badge/Clerk-161B22?style=for-the-badge&logo=clerk&logoColor=6C47FF)
+Experiência no desenvolvimento de automações e fluxos de trabalho utilizando **n8n**.
 
-<kbd>JWT</kbd>
+- Criação e manutenção de fluxos automatizados.
+- Integração de serviços e plataformas por meio de APIs.
+- Automação de processos e tarefas.
+- Utilização do n8n como ferramenta de orquestração de fluxos.
 
-### 🔄 Automações
+### Inteligência Artificial
 
-![n8n](https://img.shields.io/badge/n8n-161B22?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+Trabalho com integrações de serviços de inteligência artificial em sistemas back-end, utilizando APIs e ferramentas especializadas.
 
-### 🔌 APIs & Integrações
+- **OpenAI API:** integração com modelos de inteligência artificial.
+- **OpenAI Realtime:** recursos de IA em tempo real.
+- **Embeddings:** representações vetoriais de informações.
+- **Text-to-Speech (TTS):** geração de voz.
+- **OpenRouter:** acesso e integração com modelos de IA.
+- **Cloudflare Workers AI:** execução de recursos de IA na infraestrutura Cloudflare.
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366)
-![Meta](https://img.shields.io/badge/Meta_Graph_API-161B22?style=for-the-badge&logo=meta&logoColor=0081FB)
-![Google](https://img.shields.io/badge/Google_APIs-161B22?style=for-the-badge&logo=google&logoColor=4285F4)
-![Stripe](https://img.shields.io/badge/Stripe-161B22?style=for-the-badge&logo=stripe&logoColor=635BFF)
+### Desenvolvimento Assistido por IA
 
-<kbd>Asaas</kbd>
-<kbd>Resend</kbd>
+Utilizo ferramentas de programação assistida por inteligência artificial como parte do meu fluxo de desenvolvimento.
 
-### 🧠 Inteligência Artificial
-
-![OpenAI](https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-161B22?style=for-the-badge)
-
-<kbd>Realtime API</kbd>
-<kbd>Embeddings</kbd>
-<kbd>Text-to-Speech</kbd>
-
-### 🤖 Desenvolvimento Assistido por IA
-
-![Codex](https://img.shields.io/badge/OpenAI_Codex-161B22?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=anthropic&logoColor=D97757)
-
-### 🧪 Testes & Deploy
-
-![Vitest](https://img.shields.io/badge/Vitest-161B22?style=for-the-badge&logo=vitest&logoColor=6E9F18)
-![pnpm](https://img.shields.io/badge/pnpm-161B22?style=for-the-badge&logo=pnpm&logoColor=F69220)
-
-<kbd>pgTAP</kbd>
-<kbd>Wrangler</kbd>
+- **OpenAI Codex:** assistência na implementação e manutenção de código.
+- **Claude:** apoio em programação, análise e desenvolvimento de soluções.
 
 ---
 
-## 🚀 Especialidades
+## Stack
 
-**⚙️ Back-end & Infraestrutura**
+### Linguagens e Runtime
+TypeScript · Deno
 
-Desenvolvimento e manutenção de serviços, bancos de dados, autenticação e infraestrutura serverless.
+### Banco de Dados
+PostgreSQL 17 · Supabase · pgvector · pg_cron · Row Level Security · Supabase Vault
 
-**🔄 Integrações & Automações**
+### Back-end e Serverless
+Supabase Edge Functions · Supabase Realtime · Cloudflare Workers
 
-Integrações com APIs de terceiros e desenvolvimento de fluxos automatizados utilizando n8n.
+### Cloud e Armazenamento
+Cloudflare · Cloudflare R2 · Workers AI
 
-**🧠 Inteligência Artificial**
+### Autenticação e Segurança
+Clerk · JWT
 
-Integração de modelos de IA, serviços em tempo real, embeddings e tecnologias de voz.
+### Integrações e APIs
+WhatsApp · Meta Graph API · Google APIs · Asaas · Stripe · Resend
+
+### Automações
+n8n
+
+### Inteligência Artificial
+OpenAI API · OpenAI Realtime · Embeddings · TTS · OpenRouter
+
+### Desenvolvimento com IA
+OpenAI Codex · Claude
+
+### Testes e Ferramentas
+Vitest · pgTAP · Wrangler · pnpm
 
 ---
 
-<div align="center">
+## Áreas de Foco
 
-<sub>Back-end • Infraestrutura • Cloud • Automações • IA</sub>
+**Back-end & Serverless**
 
-</div>
+Desenvolvimento e manutenção de sistemas utilizando serviços back-end, execução serverless e integração entre diferentes tecnologias.
+
+**Cloud & Infrastructure**
+
+Infraestrutura de aplicações, armazenamento, serviços em nuvem e computação na borda.
+
+**Data & Security**
+
+Bancos de dados relacionais, controle de acesso, autenticação e recursos de segurança.
+
+**Integrations & Automation**
+
+Integração entre APIs, serviços de terceiros e automação de processos utilizando n8n.
+
+**AI Integration**
+
+Integração de inteligência artificial em serviços back-end, incluindo modelos de linguagem, embeddings, áudio e recursos em tempo real.
