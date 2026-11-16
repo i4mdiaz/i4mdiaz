@@ -1,5 +1,4 @@
-
-<!-- GitHub Profile | i4mdiaz -->
+<!-- Perfil GitHub | @i4mdiaz -->
 
 <div align="center">
 
@@ -7,7 +6,7 @@
 
 ### Desenvolvedor Back-end | Infraestrutura de Sistemas
 
-`Back-end` • `Cloud` • `APIs` • `Automações` • `IA`
+**Cloud • APIs • Automações • Inteligência Artificial**
 
 <br>
 
@@ -25,15 +24,15 @@
 
 ## 💫 Sobre mim
 
-Sou **Rafael Dias**, desenvolvedor Back-end com atuação em infraestrutura de sistemas, serviços em nuvem e integrações.
+Sou **Rafael Dias**, desenvolvedor **Back-end** com foco em **infraestrutura de sistemas**, serviços em nuvem, integrações com APIs e automações.
 
-Trabalho principalmente com **Supabase, PostgreSQL e Cloudflare**, desenvolvendo e mantendo serviços, APIs e soluções serverless.
+Trabalho principalmente com **Supabase, PostgreSQL e Cloudflare**, além de automações com **n8n** e integrações com **IA**.
 
-Também tenho experiência com **automações no n8n** e integração de serviços de inteligência artificial. No desenvolvimento, utilizo **OpenAI Codex e Claude** como ferramentas de apoio à programação.
+Também utilizo **OpenAI Codex** e **Claude** como apoio no desenvolvimento.
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Tecnologias e Ferramentas
 
 ### 🗄️ Banco de Dados
 
@@ -68,10 +67,6 @@ Também tenho experiência com **automações no n8n** e integração de serviç
 
 <kbd>JWT</kbd>
 
-### 🔄 Automações
-
-![n8n](https://img.shields.io/badge/n8n-161B22?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-
 ### 🔌 APIs & Integrações
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-161B22?style=for-the-badge&logo=whatsapp&logoColor=25D366)
@@ -82,10 +77,14 @@ Também tenho experiência com **automações no n8n** e integração de serviç
 <kbd>Asaas</kbd>
 <kbd>Resend</kbd>
 
+### 🔄 Automações
+
+![n8n](https://img.shields.io/badge/n8n-161B22?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+
 ### 🧠 Inteligência Artificial
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-161B22?style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-161B22?style=for-the-badge&logoColor=white)
 
 <kbd>Realtime API</kbd>
 <kbd>Embeddings</kbd>
@@ -94,7 +93,7 @@ Também tenho experiência com **automações no n8n** e integração de serviç
 ### 🤖 Desenvolvimento Assistido por IA
 
 ![Codex](https://img.shields.io/badge/OpenAI_Codex-161B22?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Claude](https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logoColor=D97757)
 
 ### 🧪 Testes & Deploy
 
@@ -106,19 +105,34 @@ Também tenho experiência com **automações no n8n** e integração de serviç
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=i4mdiaz&theme=transparent&hide_border=false&border_radius=10&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC&sideNums=58A6FF&sideLabels=F0F6FC&dates=8B949E" alt="GitHub Streak Stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=i4mdiaz&show_icons=true&theme=transparent&hide_border=false&border_radius=10&title_color=F0F6FC&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4mdiaz&layout=compact&theme=transparent&hide_border=false&border_radius=10&title_color=F0F6FC&text_color=C9D1D9" alt="Top Languages" />
+
+</div>
+
+---
+
 ## 🚀 Especialidades
 
-**⚙️ Back-end & Infraestrutura**
+**⚙️ Back-end & Infraestrutura**  
+Serviços, APIs, autenticação, banco de dados e arquitetura serverless.
 
-Desenvolvimento e manutenção de serviços, bancos de dados, autenticação e infraestrutura serverless.
+**🔄 Integrações & Automações**  
+Integrações com APIs de terceiros e automações com n8n.
 
-**🔄 Integrações & Automações**
-
-Integrações com APIs de terceiros e desenvolvimento de fluxos automatizados utilizando n8n.
-
-**🧠 Inteligência Artificial**
-
-Integração de modelos de IA, serviços em tempo real, embeddings e tecnologias de voz.
+**🧠 IA aplicada a sistemas**  
+Integrações com modelos de IA, processamento em tempo real, embeddings e voz.
 
 ---
 
